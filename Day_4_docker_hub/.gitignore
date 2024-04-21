@@ -1,0 +1,14 @@
+# Ignore Terraform state backups
+terraform.tfstate.backup
+
+# Ignore passwords
+my_password.txt
+
+# Ignore SSH private keys
+Project_Mario_game.pem
+
+# Ignore Terraform .terraform folder
+.terraform/
+
+# Exclude large files
+*.exe

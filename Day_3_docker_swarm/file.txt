@@ -1,0 +1,3 @@
+docker swarm init --advertise-addr
+
+It will take some time to run complete 
